@@ -1,0 +1,1 @@
+Practicing my JS by creating a counter app! 
