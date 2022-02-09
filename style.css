@@ -1,6 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&family=Roboto&display=swap');
+
+body {
+    background-color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+}
+
 .container {
     text-align: center;
     position: fixed;
     top: 50%;
     left: 50%;
+}
+
+button {
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 100px;
 }
